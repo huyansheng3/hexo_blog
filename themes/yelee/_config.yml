@@ -15,7 +15,7 @@ menu:
 avatar: /img/avatar.png
 
 # Small icon of Your site | 站点小图标地址
-favicon: /favicon.png
+favicon: /favicon.ico
 
 # Internationalization | 主题语言
 ## Change Language in SITE's _config.yml | 在站点配置中切换语言
@@ -35,13 +35,13 @@ root_url:
 ## https://github.com/hexojs/hexo-generator-feed
 
 subnav:
-  Email: "1211904437@qq.com"
-  #新浪微博: "sina weibo"
+  #Email: "1211904437@qq.com"
+  新浪微博: "http://weibo.com/huyansheng3"
   GitHub: "http://github.com/huyansheng3"
   #V2EX: "#"
-  RSS: "/atom.xml"
-  #知乎: "zhihu"
-  #豆瓣: "douban"
+  RSS: "http://huyansheng3.github.io/atom.xml"
+  #lofter: "http://huyansheng.lofter.com"
+  豆瓣: "http://huyansheng.lofter.com"
   #简书: "jianshu"
   #SegmentFault: ""
   #网易云音乐: "netease"
