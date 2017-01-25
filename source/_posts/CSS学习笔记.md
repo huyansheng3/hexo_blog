@@ -1,12 +1,7 @@
 ---
 title: CSS学习笔记
 tags:
-  - Python
-  - git
-  - Android
-  - Java
-  - JavaScript
-  - Hexo
+  - CSS
 date: 2016-07-23 15:45:26
 ---
 
